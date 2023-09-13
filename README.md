@@ -1,7 +1,8 @@
 ### Olá! 👋
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgabrielcomin/)
 
 Meu nome é Vitor Gabriel Comin, estudante de Bacharelado em Sistemas de Informação na Univille, atualmente no 6º semestre.
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgabrielcomin/)
 
 ## Atualmente estudando e me especializando em:
 
