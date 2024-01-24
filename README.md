@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Meu nome é Vitor Gabriel Comin, estudante de Bacharelado em Sistemas de Informação na Univille, atualmente no 6º semestre.
+Meu nome é Vitor Gabriel Comin, estudante de Bacharelado em Sistemas de Informação na Univille, atualmente no 7º semestre (de 9).
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgabrielcomin/)
 
