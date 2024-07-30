@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Meu nome é Vitor Gabriel Comin, estudante de Bacharelado em Sistemas de Informação na Univille, atualmente no 7º semestre (de 9).
+Meu nome é Vitor Gabriel Comin, estudante de Bacharelado em Sistemas de Informação na Univille, atualmente no 8º semestre (de 9).
 
 Atualmente ocupo o cargo de Desenvolvedor Front-End/UI Junior na empresa Tiflux.
 
