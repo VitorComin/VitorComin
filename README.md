@@ -2,7 +2,7 @@
 
 Meu nome é Vitor Gabriel Comin, estudante de Bacharelado em Sistemas de Informação na Univille, atualmente no 8º semestre (de 9).
 
-Atualmente ocupo o cargo de Desenvolvedor Front-End/UI Junior na empresa Tiflux.
+Atualmente ocupo o cargo de Desenvolvedor Junior na empresa Tiflux.
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgabrielcomin/)
 
