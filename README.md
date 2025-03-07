@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-My name is Vitor Gabriel Comin, a Bachelor's student in Information Systems at Univille, currently in the last semester.
+My name is Vitor Comin, a Bachelor's student in Information Systems at Univille, currently in the last semester.
 
 Currently working as a Full-Stack Developer at Tiflux.
 
