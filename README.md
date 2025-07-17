@@ -2,8 +2,6 @@
 
 My name is Vitor Gabriel Comin, a Bachelor's student in Information Systems at Univille, currently in the last semester.
 
-Currently working as a Full-Stack Developer at [Tiflux](https://tiflux.com/).
-
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgabrielcomin/)
 
 ## Currently studying, working, and specializing in:
