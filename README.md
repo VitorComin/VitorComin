@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-My name is Vitor Gabriel Comin, a Bachelor's student in Information Systems at Univille, currently in the last semester.
+My name is Vitor Gabriel Comin, a Bachelor's graduate in Information Systems from Univille and a front-end software engineer.
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgabrielcomin/)
 
